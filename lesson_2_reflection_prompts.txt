@@ -12,6 +12,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	can use git diff to make sue that there is only one logical change per commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
